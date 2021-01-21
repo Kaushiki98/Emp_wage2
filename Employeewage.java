@@ -3,13 +3,8 @@ public class Employeewage
 	private void doCalculation()
   {
 	System.out.println("Welcome to Employee Wage Builder");
-<<<<<<< HEAD
-	  // contents
-  		int is_Full_Time = 1;
-=======
 		// contents
 		int is_Full_Time = 1;
->>>>>>> Emp_wageUC4
 		int is_Part_Time = 2;
 		int Wage_per_hour = 20;
 		int no_of_hours = 8;
@@ -31,7 +26,6 @@ public class Employeewage
 			System.out.println("Employee is Abscent");
 			System.out.println("Payment is 0");
 			break;
-		}
 		}
 	}
 	public static void main(String[] args)
